@@ -1,7 +1,7 @@
 <?php
 /*
  *
- * Projeto voltado para uma pesquisa da faculdade, com a possibilidade de gerar um algortimo
+ * Projeto voltado para uma pesquisa da faculdade, com a possibilidade de gerar um algoritmo
  * que encurte uma determinada URL, utilizando algum algoritmo de encriptação.
  *
  * Alunos:  Lucas Reis Máximo Dias (thereis@live.com)
