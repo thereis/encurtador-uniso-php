@@ -1,4 +1,16 @@
 <?php
+/*
+ *
+ * Projeto voltado para uma pesquisa da faculdade, com a possibilidade de gerar um algortimo
+ * que encurte uma determinada URL, utilizando algum algoritmo de encriptação.
+ *
+ * Alunos:  Lucas Reis Máximo Dias (thereis@live.com)
+ *          Felipe Aparecido
+ *          Rodolfo Agapito
+ *          Alexandre Pereira
+ *
+ */
+
 
 // URL to short
 $url = "http://seusite.com.br/umenderecoaquideboas";
