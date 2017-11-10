@@ -1,7 +1,7 @@
 <?php
 
 // URL to short
-$url = "http://vsf.br/tomarnocu";
+$url = "http://seusite.com.br/umenderecoaquideboas";
 
 // generate a new hash to this URL
 function genHash($url, $iters)
